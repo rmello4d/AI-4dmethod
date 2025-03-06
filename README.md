@@ -22,7 +22,7 @@ For the AI Demo
 
 Presentation in Powerpoint
 
-Video from David Azancot (Image tag automation in qodly). 
+
 
 
 
