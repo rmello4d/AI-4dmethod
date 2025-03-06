@@ -2,7 +2,7 @@
 Resources from my talk at 4dMethod group
 
 
-For the AI Demo 
+For the AI Demo using Qodly 
 
     Create your account in groq https://groq.com/ and add a token key
     
